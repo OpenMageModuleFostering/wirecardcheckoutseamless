@@ -1,3 +1,9 @@
+#Abandoned Info
+
+This Module has a different Home, please look for wirecard/magento-wcs
+at: https://github.com/wirecard/magento-wcs
+
+
 ## Original Package Description
 
 Integration of all popular payment methods seamlessly and PCI DSS compliant into your online shop.

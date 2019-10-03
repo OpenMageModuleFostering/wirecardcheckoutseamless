@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/WirecardCheckoutSeamless",
+    "name": "openmage-module-fostering\/wirecardcheckoutseamless",
     "type": "magento-module",
-    "license": "GNU-General-Public-License-Version-2-(GPLv2)",
+    "license": "GPL-2.0",
     "homepage": "",
     "description": "Integration of all popular payment methods seamlessly and PCI DSS compliant into your online shop.",
     "authors": [
@@ -15,5 +15,6 @@
     },
     "keywords": [
         "openmage-module"
-    ]
+    ],
+    "abandoned": "wirecard\/magento-wcs"
 }
